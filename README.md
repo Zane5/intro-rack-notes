@@ -44,7 +44,7 @@
 Example middleware (logs time):
 
 * [App](middleware/app.rb)
-* [Logger middleware](middleware/logger_middleware.rb)
+* [Logger middleware](middleware/middleware_logger.rb.rb)
 * [Runner](middleware/run.rb)
 
 ## Rack::Builder
@@ -57,7 +57,7 @@ Example middleware (logs time):
 Example middleware (logs time):
 
 * [App](builder/app.rb)
-* [Logger middleware](builder/logger_middleware.rb)
+* [Logger middleware](builder/middleware_logger.rb.rb)
 * [Rackup file](builder/config.ru)
 
 ## Rails on Rack
